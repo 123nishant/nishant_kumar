@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Nishant 👋</h1>
-<h3 align="center">A remote NLP engineer from India 👾</h3>
+<h3 align="center">A remote NLP Enthusiast from India 👾</h3>
 <h3 align="center">NLP | Deep Learning | Python | AWS | Privacy Preserving Machine Learning</h3>  
 
 <p align="center">
@@ -9,7 +9,9 @@
 
 </p>
 
-I am a self-taught data scientist working remotely from India. I don't know if my skills are wide or deep, but I can get things done 🧗
+I am a self-taught data scientist working remotely from India. 
+
+I don't know if my skills are wide or deep, but I can get things done 🧗
 
 I have worked on a variety of domains and projects.
 - Semantic search using Deep learning 
